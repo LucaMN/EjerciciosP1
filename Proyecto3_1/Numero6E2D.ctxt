@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Numero6E2D
+comment0.text=\r\n\ Esta\ clase\ recibe\ un\ numero\ que\ no\ se\ puede\ sobrepasar\ de\ ciertos\ limites\ y\ lo\ almacena\ \ con\ hasta\ 2\ decimales\r\n\ \r\n\ @author\ (Lucas\ Nu\u00F1ez)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Numero6E2D()
+comment1.text=\r\n\ Constructor\ que\ inicializa\ la\ variable\ numero\r\n
+comment2.params=
+comment2.target=double\ getNumero()
+comment3.params=nuevoNumero
+comment3.target=boolean\ setNumero(double)
+numComments=4
